@@ -40,6 +40,12 @@
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/112794125/191461970-ffe0d16d-f4f6-4116-9ca6-0a6d3b69477f.png">
 <img width="358" alt="image" src="https://user-images.githubusercontent.com/112794125/191462037-896d4cc8-64d9-4850-b89e-347530724209.png">
 <img width="238" alt="image" src="https://user-images.githubusercontent.com/112794125/191462196-cda8505a-ae03-4b9b-9ec2-907d9b857e3e.png">
+## Day2 Experiment6 Queries
+[SELECT WITH VARIOUS CLAUSE](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/112794125/191467502-1ccb3677-aba4-4914-a051-34655f8ff05f.png">
+<img width="433" alt="image" src="https://user-images.githubusercontent.com/112794125/191467652-ce6a8a5b-86b5-4137-b62d-ae19ec7bb4ac.png">
+<img width="377" alt="image" src="https://user-images.githubusercontent.com/112794125/191467744-23b8f605-ce90-40b9-9e78-d17ef61a82ea.png">
+
 
 
 
