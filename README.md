@@ -31,6 +31,18 @@
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/112794125/191455633-a99d60ec-ae69-49fb-8f4d-9db31d340f17.png">
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/112794125/191455700-99090676-a3ce-4851-8102-f5cad84dd8bb.png">
 <img width="309" alt="image" src="https://user-images.githubusercontent.com/112794125/191455767-7fbce38a-db5c-4f1b-a12e-a8df6c22ebd4.png">
+## Day1 Experiment5 Queries
+[SELECT with various clause](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System/tree/main)
+<img width="321" alt="image" src="https://user-images.githubusercontent.com/112794125/191461341-0080cd4a-46b5-453b-a03b-560361cd6ac7.png">
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/112794125/191461474-38aaea38-0732-4bfb-a3e2-b4fac543f50e.png">
+<img width="271" alt="image" src="https://user-images.githubusercontent.com/112794125/191461680-c8cd42a0-028d-4991-9668-0d6a8a8231c4.png">
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/112794125/191461831-21257bad-1820-401e-b8e3-939525cfba33.png">
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/112794125/191461970-ffe0d16d-f4f6-4116-9ca6-0a6d3b69477f.png">
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/112794125/191462037-896d4cc8-64d9-4850-b89e-347530724209.png">
+<img width="238" alt="image" src="https://user-images.githubusercontent.com/112794125/191462196-cda8505a-ae03-4b9b-9ec2-907d9b857e3e.png">
+
+
+
 
 
 
