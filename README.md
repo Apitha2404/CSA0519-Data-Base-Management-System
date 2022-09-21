@@ -60,6 +60,11 @@
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/112794125/191490765-7b62f2f0-8bd6-46d9-8669-cd0e9eb3b617.png">
 <img width="815" alt="image" src="https://user-images.githubusercontent.com/112794125/191490856-4de772f5-540f-462a-b9d7-168fea308800.png">
 <img width="486" alt="image" src="https://user-images.githubusercontent.com/112794125/191490928-a9f0093b-a3e5-4b9e-a047-42b7c09b2742.png">
+## Day2 Experiment10 Queries
+[USING CASE,IF,ITREATE](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/112794125/191491430-946d8891-54d9-4637-9c88-f7a17637abb9.png">
+<img width="951" alt="image" src="https://user-images.githubusercontent.com/112794125/191491473-d1d8ea0e-6d0d-4d79-8bb8-8544f46de325.png">
+
 
 
 
