@@ -19,5 +19,18 @@
 <img width="475" alt="image" src="https://user-images.githubusercontent.com/112794125/191450589-a3338b76-1f67-4430-8558-0dd4ae89f377.png">
 <img width="483" alt="image" src="https://user-images.githubusercontent.com/112794125/191451554-aeed35a4-70d8-47c2-a74f-b409b6a4881d.png">
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/112794125/191451715-343d75dd-0010-46b4-b951-24c6da02e102.png">
+## Day1 Experiment 4 Queries
+[DMLCommands](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System/tree/main)
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/112794125/191454522-e9d73cd5-3a8b-4b86-9f44-84486981ba25.png">
+<img width="362" alt="image" src="https://user-images.githubusercontent.com/112794125/191454593-636019eb-2695-4157-9b62-a280009055cc.png">
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/112794125/191454687-da0e72b6-961d-4b51-9a36-cc6e9f8f6e27.png">
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/112794125/191455037-4414969e-853b-411a-ab8d-07a753a244b7.png">
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/112794125/191455137-e7a4fde8-8b58-4767-b640-98ec75c34fed.png">
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/112794125/191455221-7d10f849-b5e9-45d2-a25a-8f405648fb93.png">
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/112794125/191455480-33237799-50c8-4990-b44d-fd73137a2c4f.png">
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/112794125/191455633-a99d60ec-ae69-49fb-8f4d-9db31d340f17.png">
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/112794125/191455700-99090676-a3ce-4851-8102-f5cad84dd8bb.png">
+<img width="309" alt="image" src="https://user-images.githubusercontent.com/112794125/191455767-7fbce38a-db5c-4f1b-a12e-a8df6c22ebd4.png">
+
 
 
