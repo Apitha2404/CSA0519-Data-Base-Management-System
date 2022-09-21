@@ -55,6 +55,12 @@
 <img width="745" alt="image" src="https://user-images.githubusercontent.com/112794125/191490130-41091ec5-72fc-48e3-aa2f-1efaf9fa716c.png">
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/112794125/191490176-18bb56d2-a46d-4b20-8b4f-286e6216252e.png">
 <img width="840" alt="image" src="https://user-images.githubusercontent.com/112794125/191490264-05568957-9362-4428-8fc5-8210e9873d47.png">
+## Day2 Experiment9 Queries
+[VIEW, INDEX, SEQUENCE](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/112794125/191490765-7b62f2f0-8bd6-46d9-8669-cd0e9eb3b617.png">
+<img width="815" alt="image" src="https://user-images.githubusercontent.com/112794125/191490856-4de772f5-540f-462a-b9d7-168fea308800.png">
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/112794125/191490928-a9f0093b-a3e5-4b9e-a047-42b7c09b2742.png">
+
 
 
 
