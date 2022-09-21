@@ -45,6 +45,12 @@
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/112794125/191467502-1ccb3677-aba4-4914-a051-34655f8ff05f.png">
 <img width="433" alt="image" src="https://user-images.githubusercontent.com/112794125/191467652-ce6a8a5b-86b5-4137-b62d-ae19ec7bb4ac.png">
 <img width="377" alt="image" src="https://user-images.githubusercontent.com/112794125/191467744-23b8f605-ce90-40b9-9e78-d17ef61a82ea.png">
+## Day2 Experiment7 Queries
+[SubQuery and Correlated Query](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="388" alt="image" src="https://user-images.githubusercontent.com/112794125/191468197-59e49377-4f00-4232-9132-7fa464d1d8f3.png">
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/112794125/191468321-c1993d41-5af5-4a49-834e-79f01e60f11d.png">
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/112794125/191468426-90a3cc3d-a63f-4874-8656-6b3c2d3fb8fe.png">
+
 
 
 
