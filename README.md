@@ -50,6 +50,12 @@
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/112794125/191468197-59e49377-4f00-4232-9132-7fa464d1d8f3.png">
 <img width="409" alt="image" src="https://user-images.githubusercontent.com/112794125/191468321-c1993d41-5af5-4a49-834e-79f01e60f11d.png">
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/112794125/191468426-90a3cc3d-a63f-4874-8656-6b3c2d3fb8fe.png">
+## Day2 Experiment8 Queries
+[JOINS](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="745" alt="image" src="https://user-images.githubusercontent.com/112794125/191490130-41091ec5-72fc-48e3-aa2f-1efaf9fa716c.png">
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/112794125/191490176-18bb56d2-a46d-4b20-8b4f-286e6216252e.png">
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/112794125/191490264-05568957-9362-4428-8fc5-8210e9873d47.png">
+
 
 
 
