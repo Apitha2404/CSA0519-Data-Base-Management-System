@@ -12,7 +12,7 @@
 <img width="386" alt="image" src="https://user-images.githubusercontent.com/112794125/191267464-d3fd0797-93b7-4490-8139-07381a7b1494.png">
 <img width="425" alt="image" src="https://user-images.githubusercontent.com/112794125/191267540-94b29987-51f0-42af-aad3-673a93c1d664.png">
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/112794125/191267680-49b5c9b9-0467-40c7-9c26-2f59c85fb6e4.png">
-##Day1 Experiment3 Queries
+## Day1 Experiment3 Queries
 [DML Commands](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System/tree/main)
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/112794125/191450313-98272b64-b4c4-4440-9b0a-f7c761c7b15f.png">
 <img width="495" alt="image" src="https://user-images.githubusercontent.com/112794125/191450476-a8e44757-c8a9-4c8d-ab03-510a50b5e191.png">
