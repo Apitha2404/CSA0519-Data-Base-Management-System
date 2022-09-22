@@ -92,6 +92,9 @@
 ## Experiment18
 [TRIGGER](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/112794125/191707502-fd88c10f-0836-48d5-a0d1-8f7e9434f4d0.png">
+## Experiment19
+[DATA BASE CONNECTIVITY](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System/tree/main)
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/112794125/191808558-ffd5f7b6-7665-4de2-9880-a630480ebe3b.png">
 
 
 
