@@ -95,6 +95,9 @@
 ## Experiment19
 [DATA BASE CONNECTIVITY](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System/tree/main)
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/112794125/191808558-ffd5f7b6-7665-4de2-9880-a630480ebe3b.png">
+## Experiment20
+[Case Scenario Basic SQL](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/112794125/191808858-5e36989f-7dd7-45d5-8c5c-7d78197c0ac3.png">
 
 
 
