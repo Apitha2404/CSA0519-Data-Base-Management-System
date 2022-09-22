@@ -64,6 +64,10 @@
 [USING CASE,IF,ITREATE](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
 <img width="273" alt="image" src="https://user-images.githubusercontent.com/112794125/191491430-946d8891-54d9-4637-9c88-f7a17637abb9.png">
 <img width="951" alt="image" src="https://user-images.githubusercontent.com/112794125/191491473-d1d8ea0e-6d0d-4d79-8bb8-8544f46de325.png">
+## Experiment11
+[RELATED ,WHILE](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="376" alt="image" src="https://user-images.githubusercontent.com/112794125/191702495-c30be721-5f8c-4873-812b-8c67050599d2.png">
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/112794125/191702611-25f30e0f-d716-4fa7-95a7-6e771645c4f3.png">
 
 
 
