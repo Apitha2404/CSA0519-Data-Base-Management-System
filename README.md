@@ -75,6 +75,24 @@
 ## Experiment13
 [TCL COMMANDS](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
 <img width="234" alt="image" src="https://user-images.githubusercontent.com/112794125/191704692-bad51603-7813-468e-94cc-1bddd7148661.png">
+## Experiment14
+[DCL COMMANDS](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="220" alt="image" src="https://user-images.githubusercontent.com/112794125/191705065-e9ab2074-611d-4be5-8639-c95a5f58cf6a.png">
+<img width="323" alt="image" src="https://user-images.githubusercontent.com/112794125/191705162-237fc3e3-21cb-4ea4-8720-191f77671343.png">
+## Experiment15
+[HIGH LEVEL PROGRAMMING EXTENSION](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/112794125/191705545-bb2ce802-93d9-40b0-8f78-bcfe4a0d1f36.png">
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/112794125/191705612-98582bde-8bef-4de6-8dba-3389bdcf88ae.png">
+## Experiment16
+[HIGH LEVEL PROGRAMMING EXTENSION](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/112794125/191706247-a7d3fafc-180f-4374-98a9-86cb3a6dfbed.png">
+## Experiment17
+[HIGH LEVEL PROGRAMMING EXTENSION with CURSOR](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/112794125/191706631-a5e1a1b9-0150-4c25-a84b-844efc92cb00.png">
+## Experiment18
+[TRIGGER](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="582" alt="image" src="https://user-images.githubusercontent.com/112794125/191707502-fd88c10f-0836-48d5-a0d1-8f7e9434f4d0.png">
+
 
 
 
