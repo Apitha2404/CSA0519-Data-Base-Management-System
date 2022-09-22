@@ -68,6 +68,10 @@
 [RELATED ,WHILE](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
 <img width="376" alt="image" src="https://user-images.githubusercontent.com/112794125/191702495-c30be721-5f8c-4873-812b-8c67050599d2.png">
 <img width="692" alt="image" src="https://user-images.githubusercontent.com/112794125/191702611-25f30e0f-d716-4fa7-95a7-6e771645c4f3.png">
+## Experiment12
+[CASE and LOOP](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/112794125/191703326-48d70688-6d27-4075-9ee6-61739e1f165a.png">
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/112794125/191703649-a019647a-30c5-47e3-83ce-8938830cb98f.png">
 
 
 
