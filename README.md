@@ -72,6 +72,10 @@
 [CASE and LOOP](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/112794125/191703326-48d70688-6d27-4075-9ee6-61739e1f165a.png">
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/112794125/191703649-a019647a-30c5-47e3-83ce-8938830cb98f.png">
+## Experiment13
+[TCL COMMANDS](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="234" alt="image" src="https://user-images.githubusercontent.com/112794125/191704692-bad51603-7813-468e-94cc-1bddd7148661.png">
+
 
 
 
