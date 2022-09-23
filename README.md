@@ -103,6 +103,12 @@
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/112794125/191887550-e9d2af65-1038-4ee2-bfba-20e43d8d6098.png">
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/112794125/191887647-e5762ae7-2a81-4d3a-bd9b-da3108d4b932.png">
 <img width="398" alt="image" src="https://user-images.githubusercontent.com/112794125/191887667-f62cd4ac-fea3-43a7-b62c-6cdd4fb1e26a.png">
+## eXPERIMENT22
+[USING SAME TABLE](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="856" alt="image" src="https://user-images.githubusercontent.com/112794125/191887863-5ae81462-702c-49b2-b5ce-aa4115ace5d4.png">
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/112794125/191887941-0645f03b-97fc-4c5f-986a-e5715dfd1c0f.png">
+<img width="605" alt="image" src="https://user-images.githubusercontent.com/112794125/191887975-bf001fae-9c78-46c8-a03b-bbe985f6df04.png">
+
 
 
 
