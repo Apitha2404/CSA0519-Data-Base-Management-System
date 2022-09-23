@@ -111,6 +111,10 @@
 ## Experiment23
 [HOSPITAL MANAGEMENT](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System/tree/main)
 <img width="756" alt="image" src="https://user-images.githubusercontent.com/112794125/191894699-1acf0e5a-f5fb-4049-80e7-f53437473fb4.png">
+## Experiment24
+[CAR RENTAL](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/112794125/191894881-c91a3737-d653-411a-9020-ddec994c310a.png">
+
 
 
 
