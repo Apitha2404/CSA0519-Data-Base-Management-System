@@ -98,6 +98,11 @@
 ## Experiment20
 [Case Scenario Basic SQL](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System)
 <img width="955" alt="image" src="https://user-images.githubusercontent.com/112794125/191808858-5e36989f-7dd7-45d5-8c5c-7d78197c0ac3.png">
+## Experiment21
+[CREATE TABLES](https://github.com/Apitha2404/CSA0519-Data-Base-Management-System/tree/main)
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/112794125/191887550-e9d2af65-1038-4ee2-bfba-20e43d8d6098.png">
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/112794125/191887647-e5762ae7-2a81-4d3a-bd9b-da3108d4b932.png">
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/112794125/191887667-f62cd4ac-fea3-43a7-b62c-6cdd4fb1e26a.png">
 
 
 
